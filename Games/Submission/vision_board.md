@@ -25,6 +25,10 @@ Skills
 ![Fruits](https://th.bing.com/th/id/OIP.3p5YqB1g8aCZFw6LHXf32QHaFh?w=271&h=202&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 ![Fruits](https://th.bing.com/th/id/OIP.wFWKMeDjnSu2to7AhTH_CgHaCw?w=296&h=130&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 ![Fruits](https://th.bing.com/th/id/OIP._TmCBF2xsEFqhJy0PIHeVwAAAA?w=240&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+![Fruits](https://th.bing.com/th/id/OIP.s_DaGL_YIQ7fJUS14vlMQwHaJu?w=159&h=210&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+![Fruits](https://th.bing.com/th/id/OIP.XUVKvQ-UpgNzdtMma-JBUQAAAA?w=192&h=192&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+![Fruits](https://th.bing.com/th/id/OIP.twPg8iW5jSUpJM_8cYqMrQHaHa?w=172&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+
 
 ## Conclusion
 - Insert a meme/image that represents your team's excitement and enthusiasm for Game of Learners
