@@ -12,8 +12,10 @@ Skills
 - Insert a meme/image that represents the skills you want to improve during Game of Learners
 
 ## Collaboration
-- Insert a meme/image that represents your team's communication and collaboration strategy for Game of Learners
-- Insert a meme/image that represents your team's approach to giving and receiving feedback during Game of Learners
+
+![Books](https://images.app.goo.gl/phZr46gr6L98KYcAA)
+![Mobile Library](https://images.app.goo.gl/eGxQyMyzKmjWEvRQ9)
+
 
 ## Success
 - Insert a meme/image that represents what success in Game of Learners looks like for your team
