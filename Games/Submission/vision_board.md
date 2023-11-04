@@ -6,11 +6,6 @@
 
 ### Inspiration
 ![Education strong](https://media.giphy.com/media/sGyZz05Y5oQLAg3Tc8/giphy.gif)
-### Motivation
-![Education strong](https://media.giphy.com/media/MhAxhXZ0uEaer0U19j/giphy.gif)
-
-### Inspiration
-![Education strong](https://media.giphy.com/media/sGyZz05Y5oQLAg3Tc8/giphy.gif)
 ## Goals
 - Insert a meme/image that represents your team's primary goal for Game of Learners
 - Insert a meme/image that represents your team's secondary goal for Game of Learners
