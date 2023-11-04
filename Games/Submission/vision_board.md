@@ -16,6 +16,7 @@ Skills
 ![Books](https://images.app.goo.gl/phZr46gr6L98KYcAA)
 ![Mobile Library](https://images.app.goo.gl/eGxQyMyzKmjWEvRQ9)
 
+
 ## Success
 - Insert a meme/image that represents what success in Game of Learners looks like for your team
 - Insert a meme/image that represents the rewards and benefits of achieving your team's goals in Game of Learners
