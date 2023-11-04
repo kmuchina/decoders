@@ -1,4 +1,4 @@
-# [Team_Name] Vision Board
+# Decoders Vision Board
 
 ## Introduction
 Insert a meme/image that represents your team's motivation and inspiration for participating in Game of Learners Season 4.
