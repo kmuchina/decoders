@@ -13,8 +13,8 @@ Skills
 
 ## Collaboration
 
-![Books](https://images.app.goo.gl/phZr46gr6L98KYcAA)
-![Mobile Library](https://images.app.goo.gl/eGxQyMyzKmjWEvRQ9)
+![Books](https://media.gettyimages.com/id/1018773878/photo/library-and-books.jpg?s=612x612&w=0&k=20&c=sq4P_75x16LxXbAmZ-3GB1MwTSmvkEQpTl6NQsKEfy4=)
+![Mobile Library](https://www.knls.ac.ke/wp-content/uploads/knls-Mobile-Librabry-Service-2.jpg)
 
 
 ## Success
