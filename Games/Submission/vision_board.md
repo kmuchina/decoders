@@ -16,8 +16,8 @@ Insert a meme/image that represents your team's motivation and inspiration for p
 !["This is an image to show the skills we want to improve"](https://media3.giphy.com/media/3aifEbKv3aqeQ/200w.webp?cid=ecf05e47rzs0nbc8llecx8fjly0oehzipaybnz5022r76vqg&ep=v1_gifs_search&rid=200w.webp&ct=g)
 ## Collaboration
 
-![Books](https://images.app.goo.gl/phZr46gr6L98KYcAA)
-![Mobile Library](https://images.app.goo.gl/eGxQyMyzKmjWEvRQ9)
+![Books](https://media.gettyimages.com/id/1018773878/photo/library-and-books.jpg?s=612x612&w=0&k=20&c=sq4P_75x16LxXbAmZ-3GB1MwTSmvkEQpTl6NQsKEfy4=)
+![Mobile Library](https://www.knls.ac.ke/wp-content/uploads/knls-Mobile-Librabry-Service-2.jpg)
 
 
 ## Success
