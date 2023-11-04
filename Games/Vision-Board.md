@@ -4,11 +4,7 @@
 Create a vision board using memes/images that represents your team's goals for a fictional project that you are working on.
 
 ## Instructions
-### Motivation
-![Education strong](https://media.giphy.com/media/MhAxhXZ0uEaer0U19j/giphy.gif)
 
-### Inspiration
-![Education strong](https://media.giphy.com/media/sGyZz05Y5oQLAg3Tc8/giphy.gif)
 ### Step 1: Fork the Repository
 One member of your team should fork the Vision Board repository to create a copy in your team's GitHub account.
 
