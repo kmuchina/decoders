@@ -12,8 +12,7 @@ Skills
 - Insert a meme/image that represents the skills you want to improve during Game of Learners
 
 ## Collaboration
-- Insert a meme/image that represents your team's communication and collaboration strategy for Game of Learners
-- Insert a meme/image that represents your team's approach to giving and receiving feedback during Game of Learners
+
 ![Collaboration](https://giphy.com/gifs/ryan-reynolds-isla-fisher-definitely-maybe-AbuQeC846WKOs)
 
 ## Success
