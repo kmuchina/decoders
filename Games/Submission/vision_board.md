@@ -1,7 +1,14 @@
 # Decoders Vision Board
 
 ## Introduction
-Insert a meme/image that represents your team's motivation and inspiration for participating in Game of Learners Season 4.
+
+### Motivation
+
+![Education is strong](https://media.giphy.com/media/MhAxhXZ0uEaer0U19j/giphy.gif)
+
+### Inspiration
+![Education is strong](https://media.giphy.com/media/sGyZz05Y5oQLAg3Tc8/giphy.gif)
+
 
 ## Goals
 ### Primary Goal

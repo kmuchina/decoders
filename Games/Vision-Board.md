@@ -5,7 +5,7 @@ Create a vision board using memes/images that represents your team's goals for a
 
 ## Instructions
 
-### Step 1: Fork the Repository 
+
 One member of your team should fork the Vision Board repository to create a copy in your team's GitHub account.
 
 To fork a repository, click the "Fork" button in the top right corner of the repository page.
