@@ -13,7 +13,8 @@ Skills
 
 ## Collaboration
 
-![Collaboration](https://giphy.com/gifs/ryan-reynolds-isla-fisher-definitely-maybe-AbuQeC846WKOs)
+![Books](https://images.app.goo.gl/phZr46gr6L98KYcAA)
+![Mobile Library](https://images.app.goo.gl/eGxQyMyzKmjWEvRQ9)
 
 ## Success
 - Insert a meme/image that represents what success in Game of Learners looks like for your team
